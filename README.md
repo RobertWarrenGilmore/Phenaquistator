@@ -1,2 +1,2 @@
-# Phenaquistator
-Collaborative animation doodling game
+# phenakistator
+collaborative animation doodling game
